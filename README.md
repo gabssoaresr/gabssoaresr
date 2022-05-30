@@ -10,8 +10,7 @@ learning things that can help me to alwas be a better developer.
 
 
 ## Repositories
-You can see my repositories a little about my studies. There you'll find some project that I used as base to learn since HTML,
-until JavaScript, PHP and others. 
+You can see my repositories a little about my studies.. 
 
 <details>
 <summary>
